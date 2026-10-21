@@ -1,1 +1,1 @@
-This study establishes a robust LCRrelated prognostic signature and nominates CLCNKA as a novel therapeutic vulnerability, offering actionable insights for personalized stratification and treatment in ccRCC.
+This study establishes a robust LCR-related prognostic signature and nominates CLCNKA as a novel therapeutic vulnerability, offering actionable insights for personalized stratification and treatment in ccRCC.
